@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Prefix Sum
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -48,5 +51,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
