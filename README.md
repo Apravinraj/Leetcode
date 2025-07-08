@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,4 +37,16 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
