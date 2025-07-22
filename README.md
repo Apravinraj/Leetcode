@@ -22,6 +22,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
+| [2181-smallest-index-with-equal-value](https://github.com/Apravinraj/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 ## Prefix Sum
 |  |
 | ------- |
