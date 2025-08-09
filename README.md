@@ -81,4 +81,8 @@
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Apravinraj/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
