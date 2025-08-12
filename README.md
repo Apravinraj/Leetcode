@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -100,4 +101,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Apravinraj/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Apravinraj/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Apravinraj/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
