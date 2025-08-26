@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/Apravinraj/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0782-jewels-and-stones](https://github.com/Apravinraj/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
