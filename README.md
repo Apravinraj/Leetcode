@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2181-smallest-index-with-equal-value](https://github.com/Apravinraj/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 ## Prefix Sum
@@ -56,12 +57,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Apravinraj/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
