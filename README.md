@@ -43,12 +43,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Apravinraj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Apravinraj/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
