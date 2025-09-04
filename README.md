@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1656-count-good-triplets](https://github.com/Apravinraj/Leetcode/tree/master/1656-count-good-triplets) |
 | [2181-smallest-index-with-equal-value](https://github.com/Apravinraj/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 ## Prefix Sum
 |  |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Apravinraj/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
