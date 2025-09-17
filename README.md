@@ -62,6 +62,7 @@
 | [0205-isomorphic-strings](https://github.com/Apravinraj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Apravinraj/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Apravinraj/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Apravinraj/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
@@ -73,6 +74,7 @@
 | [0075-sort-colors](https://github.com/Apravinraj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Apravinraj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Apravinraj/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Apravinraj/Leetcode/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
