@@ -8,7 +8,7 @@ class Solution {
             index = t.indexOf(ch);
             t = t.substring(index+1);
             index = -1;
-            System.out.println(t);
+            
             }
             else{
             return false;
