@@ -24,6 +24,7 @@
 | [0075-sort-colors](https://github.com/Apravinraj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Apravinraj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Apravinraj/Leetcode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Apravinraj/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Apravinraj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Apravinraj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Apravinraj/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Apravinraj/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -132,6 +135,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Apravinraj/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Apravinraj/Leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Apravinraj/Leetcode/tree/master/0561-array-partition) |
 ## Simulation
@@ -142,4 +146,8 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Apravinraj/Leetcode/tree/master/1656-count-good-triplets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Apravinraj/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
