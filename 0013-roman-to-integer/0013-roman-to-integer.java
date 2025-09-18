@@ -10,14 +10,13 @@ class Solution {
         hm.put('M',1000);
 
         int result = hm.get(s.charAt(s.length()-1));
-
         for(int i=s.length()-2;i>=0;i--){
-        if(hm.get(s.charAt(i)) < hm.get(s.charAt(i+1))){
-            result-=hm.get(s.charAt(i));
-        }
-        else{
-            result+=hm.get(s.charAt(i));
-        }
+            if(hm.get(s.charAt(i)) < hm.get(s.charAt(i+1))){
+                result-=hm.get(s.charAt(i));
+            }
+            else{
+                result+=hm.get(s.charAt(i));
+            }
         }
         return result;
     }
