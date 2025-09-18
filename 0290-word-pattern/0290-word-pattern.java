@@ -5,8 +5,7 @@ class Solution {
 
 
         HashMap<Character,String> hm = new HashMap<>();
-        Set<String> used = new HashSet<>();
-        
+       
         for(int i=0;i<pattern.length();i++)
         {
             char ch = pattern.charAt(i);
@@ -16,9 +15,9 @@ class Solution {
                 if(!hm.get(ch).equals(w)) return false;
                }
                 else{
-                    if(used.contains(w)) return false;
+                    if(hm.containsValue(w)) return false;
                     hm.put(ch,w);
-                    used.add(w);
+                    
                 }
         }
             return true;
