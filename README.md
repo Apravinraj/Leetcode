@@ -59,6 +59,7 @@
 | [0014-longest-common-prefix](https://github.com/Apravinraj/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apravinraj/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Apravinraj/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Apravinraj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Apravinraj/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Apravinraj/Leetcode/tree/master/0383-ransom-note) |
@@ -73,6 +74,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apravinraj/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Apravinraj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Apravinraj/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Apravinraj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Apravinraj/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Apravinraj/Leetcode/tree/master/0917-boats-to-save-people) |
