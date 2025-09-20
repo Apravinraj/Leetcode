@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Apravinraj/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Apravinraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Apravinraj/Leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/Apravinraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0336-palindrome-pairs](https://github.com/Apravinraj/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Apravinraj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
