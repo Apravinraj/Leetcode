@@ -24,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/Apravinraj/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Apravinraj/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Apravinraj/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Apravinraj/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Apravinraj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Apravinraj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Apravinraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Apravinraj/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Apravinraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Apravinraj/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Apravinraj/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
