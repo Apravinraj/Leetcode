@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Apravinraj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Apravinraj/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Apravinraj/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [3174-clear-digits](https://github.com/Apravinraj/Leetcode/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0392-is-subsequence](https://github.com/Apravinraj/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Apravinraj/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3174-clear-digits](https://github.com/Apravinraj/Leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Apravinraj/Leetcode/tree/master/0412-fizz-buzz) |
+| [3174-clear-digits](https://github.com/Apravinraj/Leetcode/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
